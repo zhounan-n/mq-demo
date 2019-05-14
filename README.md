@@ -5,3 +5,5 @@ rabbitMq应用场景：
     延时队列取消超时订单
     秒杀
     消息补偿实现分布式实务最终一致性
+    
+https://www.cnblogs.com/ityouknow/p/6120544.html
